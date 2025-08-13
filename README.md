@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+🧩 VS Code Setup
+This project includes workspace settings in .vscode/settings.json to ensure consistent formatting and linting using ESLint and Prettier.
+Make sure to open the project folder directly in VS Code to activate these settings.
